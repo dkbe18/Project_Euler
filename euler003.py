@@ -7,4 +7,4 @@ while factor*factor<number:
     while number%factor==0:
         number=number/factor
     factor+=1
-print(factor)
+print(number)
